@@ -58,7 +58,10 @@
 
 ---
 
-📞 Контакты
-GitHub: @nikolaipm992
-Email: nikolaipm992@yandex.ru
-Telegram: @N_P1725
+## 📞 Контакты
+
+- **GitHub:** [@nikolaipm992]
+- **Email:** [nikolaipm992@yandex.ru]
+- **Telegram:** [@N_P1725]
+
+---
