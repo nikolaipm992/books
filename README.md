@@ -34,6 +34,7 @@
 - [Искусственный интеллект и компьютерное зрение](books/programming/Iskusstvenny_intellekt_i_kompyuternoe_zrenie_Realnye_proekty_na_Python_Keras_i_TensorFlow.pdf)
 - [Фундаментальный подход к программной архитектуре](books/programming/Fundamentalny_podkhod_k_programmnoy_arkhitekture.pdf)
 - [Hands-on Large Language Models](books/programming/Hands-on-large-model.pdf)
+- [RAG и генеративный ИИ](books/programming/Rothman_D._RAG_i_generativnyi_AI.pdf)
 
 ### 📗 Фантастика
 
@@ -63,6 +64,6 @@
 - **GitHub:** [@nikolaipm992]
 - **Email:** [nikolaipm992@yandex.ru]
 - **Telegram:** [@N_P1725]
-- **MAX:** [+7-951-565-18-74]
+- **MAX:** [https://max.ru/u/f9LHodD0cOJyp4HDht4iyQ67LsNlfJUor5KsDZLSyU68lyVtzFEPreAojd8]
 
 ---
